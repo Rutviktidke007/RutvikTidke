@@ -1,6 +1,6 @@
-# RutvikTidke
-# 👋 Hi, I'm [Your Name]  
-🚀 Passionate Developer | Data Analyst | Open Source Contributor  
+
+# 👋 Hi, I'm Rutvik  
+🚀 Passionate Developer | Data Scientist | Data Engineer 
 
 ### 💻 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,8 +8,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ### 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rutviktidke007&show_icons=true&theme=radical)
 
 ### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rutvik-tidke-597425b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://www.datascienceportfol.io/RUTVIKTIDKE)
