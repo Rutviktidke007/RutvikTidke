@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rutvik  
-🚀 Passionate Data Engineer | Data Scientist | MERN Stack Developer  
+🚀 Passionate Data Engineer | Data Scientist | Specialised in Supply Chain Data Analytics  
 📜 Certified DP-203 (Azure Data Engineering) | Google Data Analytics Professional  
 
 ### 💻 Tech Stack  
